@@ -1,1 +1,3 @@
-print("hello")
+import numpy
+
+print(numpy.random.rand())
